@@ -12,6 +12,8 @@ header {
     height: 10vh;
     width: 100%;
     background-color: white;
+    text-align: end;
+    padding: 25px 25px 0 0;
 }
 
 main {
@@ -23,6 +25,7 @@ main {
 }
 
 footer {
+    padding: 25px 25px 0 25px;
     height: 10vh;
     width: 100%;
     background-color: white;

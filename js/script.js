@@ -28,6 +28,7 @@ _Play.addEventListener('click',
                         } else {
     
                             this.classList.add('clicked');
+                            console.log(this.innerHTML);
     
                         }
                     }
@@ -57,6 +58,7 @@ _Play.addEventListener('click',
                         } else {
     
                             this.classList.add('clicked');
+                            console.log(this.innerHTML);
     
                         }
                     }
@@ -86,6 +88,7 @@ _Play.addEventListener('click',
                         } else {
             
                             this.classList.add('clicked');
+                            console.log(this.innerHTML);
             
                         }
                     }
