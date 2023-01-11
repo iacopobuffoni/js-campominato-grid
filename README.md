@@ -1,1 +1,1 @@
-# js-campominato-grid
+# js-fizzbuzz
